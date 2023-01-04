@@ -1,3 +1,5 @@
 # IT-essentials
-linux
-SDLC
+# Inroduction
+# Linux
+# sdlc
+# Testing
