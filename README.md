@@ -6,3 +6,5 @@ Started Jira today, and im gonna complete ci cd by tomorrow end.
 
 completed cloud computing
 
+Done with CI & CD
+
